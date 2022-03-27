@@ -53,7 +53,7 @@
 		<dc:source>http://shakespeare.mit.edu/two_gentlemen/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">18574</meta>
+		<meta property="se:word-count">18573</meta>
 		<meta property="se:reading-ease.flesch">82.54</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_the-two-gentlemen-of-verona</meta>
